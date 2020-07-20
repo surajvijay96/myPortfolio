@@ -1,0 +1,161 @@
+{
+  "main": {
+    "name":"Suraj Vijay",
+    "occupation":"Software Engineer and an AWS Certified Solutions Architect Associate",
+    "description":"Currently a second year graduate student at Illinois Tech, Chicago. Having industry experience working as a Full Stack Developer and posses knowledge of Front-end, Back-end, Android, Cloud and Database technologies",
+    "image":"profilepic.jpg",
+    "bio":"A Skilled Software Software Engineer who loves to take up challenging tasks and intereted in solving analytical problems. Always eager to learn new technologies and flexible to work as an individual and within a team. My key areas of interest include Algorithms, Data Structers,Cloud Technologies,Web and Android development",
+    "contactmessage":"Feel Free to Contact me",
+    "email": "svijay1@hawk.iit.edu",
+    "phone": "312-929-6898",
+    "address":{
+      "street":"500E, 33rd Street",
+      "city":"Chicago",
+      "state":"Illinois",
+      "zip": "60616"
+    },
+    "website": "https://www.linkedin.com/in/suraj-vijay/",
+    "resumedownload":"https://drive.google.com/file/d/1UrkkQR7AobBJF5YT5uHxVsYBGIcIubjX/view?usp=sharing",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/Suraj.Vijay96/",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/suraj-vijay/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/surajvijay96/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/surajvijay96",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"",
+    "education":[
+      {
+        "school":"Illinois Institute of Technology",
+        "degree":"Masters in Computer Science",
+        "graduated":"May 2021",
+        "description":"Enterprise Web Applications, Data Mining, Unified Modelling Language, Parallel and Distributed Processing, Mobile Application Development, Computer Networks"
+      },
+      {
+        "school":"Visvesvaraya Technological University",
+        "degree":"Bachelor of Engineering in Computer Science",
+        "graduated":"July 2018",
+        "description":"Data Structures, Design & Analysis of Algorithms, Database Management Systems, Operating System"
+      }
+    ],
+    "work":[
+      {
+        "company":"Tata Elxsi, Bangalore",
+        "title":"Software Engineer ",
+        "years":"August 2018 - July 2019",
+        "description":"Worked on the front-end development of a video streaming website using ReactJS by enhancing the User Interface experience following Agile scrum methodology as development life cycle | Implementation of responsive web design for scaling and viewing the design automatically based on the screen size and orientation using Bootstrap | Fetching of dynamic data from backend by implementing Restful APIs | Integrated Conviva Analytics to application for online video analysis and Mixpanel Analytics for Video and Business Analysis"
+      },
+      {
+        "company":"Hindustan Aeronautics Limited, Bangalore",
+        "title":"Engineer Intern",
+        "years":"Jan 2017 - February 2017",
+        "description":"Gained knowledge about the mechanism and working of defense aircrafts and their operating systems | Coordinated the implementation of Real time operating system for hardware resource optimization for fighter aircrafts"
+      }
+    ],
+    "skills":[
+      {
+        "name":"Java",
+        "level":"85%"
+      },
+      {
+        "name":"Javascript",
+        "level":"80%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"90%"
+      },
+      {
+        "name":"AWS",
+        "level":"95%"
+      },
+      {
+        "name":"Android Developemt",
+        "level":"80%"
+      },
+      {
+        "name":"Angular",
+        "level":"85%"
+      },
+      {
+        "name":"Python",
+        "level":"70%"
+      },
+      {
+        "name":"Git",
+        "level":"85%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Serverless Note App-AWS Amplify",
+        "category":"Note app using AWS Amplify, React and DynamoDB",
+        "image":"noteApp.png",
+        "url":"https://github.com/surajvijay96/Serverless_NoteTaker_AWS_Amplify"
+      },
+      {
+        "title":"Serverless Invoice System",
+        "category":"Invoice Management using React, AWS Lambda and DynamoDB",
+        "image":"invoice.png",
+        "url":"https://github.com/surajvijay96/ServerlessAWS-InvoiceSystem"
+      },
+      {
+        "title":"React Video Streaming Application",
+        "category":"A video streaming app similar to youtube",
+        "image":"videoStream.jpg",
+        "url":"https://github.com/surajvijay96/Video-Streaming-Application"
+      },
+      {
+        "title":"Chicago Social Hub",
+        "category":"A social site using Yelp and Divvy cycles api",
+        "image":"chicago.jpg",
+        "url":"https://github.com/surajvijay96/ChicagoSocialHub"
+      },
+      {
+        "title":"Hassan Explorer Android App",
+        "category":"A tourist app for Hassan city",
+        "image":"hassan.png",
+        "url":"https://github.com/surajvijay96/Hassan_Explorer_Android_App"
+      },
+      {
+        "title":"Organisational Dashboard",
+        "category":"A dashboard for organisational data",
+        "image":"dashboard.jpg",
+        "url":"https://github.com/surajvijay96/Dashboard-Demo"
+      },
+      {
+        "title":"Quick Chef",
+        "category":"A food ordering site using Yelp and Google maps api",
+        "image":"quickfood.png",
+        "url":"https://github.com/surajvijay96/QuickChef"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Suraj is one of the truly hardworking individuals that I have worked with in the team. His dedication towards his work and his smart way of handeling the problems was impressive. His ability to manage time and work on multiple tasks was impressive. I would highly recommend Suraj to work as a team member",
+        "user":"Mr. Pramod G (Team Lead Tata Elxsi)"
+      }
+    ]
+  }
+}
