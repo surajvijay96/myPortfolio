@@ -107,6 +107,12 @@
   "portfolio":{
     "projects": [
       {
+        "title":"Blog App-AWS Amplify & React",
+        "category":"Blog app using AWS Amplify, React and DynamoDB",
+        "image":"blog.png",
+        "url":"https://github.com/surajvijay96/Blog-App-Serverless"
+      },
+      {
         "title":"Serverless Note App-AWS Amplify",
         "category":"Note app using AWS Amplify, React and DynamoDB",
         "image":"noteApp.png",
